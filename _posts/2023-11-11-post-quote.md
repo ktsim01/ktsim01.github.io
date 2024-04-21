@@ -1,12 +1,12 @@
 ---
-title: "Post: Quote"
+title: "Quote"
 categories:
   - Blog
 tags:
-  - Post Formats
+  - mildly interesting
   - quote
 ---
 
 > What you seek is seeking you.
   
-> <cite><a>Rumi</a></cite>
+> Rumi

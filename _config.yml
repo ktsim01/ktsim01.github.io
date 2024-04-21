@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Kyutae Sim"
-  avatar : "/assets/images/profile_pic.jpg"
+  avatar : "/assets/images/profile_pic.png"
   bio    : "My awesome biography constrained to a single sentence."
   links:
     - label: "Website"

@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kyutae Sim"
   avatar : "/assets/images/profile_pic.png"
-  bio    : "You've had the pleasure of getting to know me."
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
